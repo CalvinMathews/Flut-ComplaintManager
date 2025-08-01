@@ -28,30 +28,30 @@ This app provides a digital complaint workflow system:
 ## 🖼️ Screenshots
 
 ### 🟦 Splash Screen
-![Splash Screen](assets/readme/Screen1.jpg)
+![Splash Screen](assets/readme/Screen1.jpeg)
 
 ### 🔐 Login Page
-![Login Page](assets/readme/Screen2.jpg)
+![Login Page](assets/readme/Screen2.jpeg)
 
 ### 🛠️ Admin Dashboard (Panel + View)
-![Admin Page](assets/readme/Screen3.jpg)
-![Admin View](assets/readme/Screen4.jpg)
+![Admin Page](assets/readme/Screen3.jpeg)
+![Admin View](assets/readme/Screen4.jpeg)
 
 ### 📝 Raise a Complaint form
-![Complaint Form](assets/readme/Screen5.jpg)
+![Complaint Form](assets/readme/Screen5.jpeg)
 
 ### ✅ Confirmation Page
-![Confirmation Page](assets/readme/Screen6.jpg)
+![Confirmation Page](assets/readme/Screen6.jpeg)
 
 ### 🟢 Ticket Success & ❌ Error Handling
-![Success](assets/readme/Screen7.jpg)
-![Error](assets/readme/Screen8.jpg)
+![Success](assets/readme/Screen7.jpeg)
+![Error](assets/readme/Screen8.jpeg)
 
 ### 📊 Status of Complaints
-![Status Check](assets/readme/Screen9.jpg)
+![Status Check](assets/readme/Screen9.jpeg)
 
 ### 📃 Google Sheets View
-![Sheet View](assets/readme/Screen10.jpg)
+![Sheet View](assets/readme/Screen10.jpeg)
 
 ---
 
