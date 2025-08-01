@@ -77,4 +77,4 @@ This app provides a digital complaint workflow system:
 
 ## 📌 Note
 
-This project was developed as part of an internship, aiming to build a functional and lightweight complaint management system using Flutter and Google Sheets. The focus was on creating a responsive UI ensuring ease of use for both users and administrators.
+This project was developed as part of an internship, aiming to build a functional and lightweight complaint management system using Flutter and Google Sheets. The focus was on creating a responsive UI ensuring ease of use for both users and administrators. App is not up to the production-level standard and architecture. It was a learning attempt.
